@@ -1,0 +1,14 @@
+debug: false
+tablist: false
+banksystem: true
+header: "Willkommen \n-> %playername <-"
+footer: "Have fun good luck \n-> %displayname <-"
+customname: "</>"
+displayname: "%color%playername&r"
+format:
+  normal: "&8[%prefix%teamname &7/ %fprefix%fraktionname&8] %displayname &7> &f%suffix%messages"
+  shout: "&8[%prefix%teamname &7/ %fprefix%fraktionname&8] %displayname &7> &f%suffix%messages"
+broadcast: "&8[&4Broadcast&8] &f%messages"
+colorcodetimeout: 300
+distance.normal: 14
+distance.shout: 30

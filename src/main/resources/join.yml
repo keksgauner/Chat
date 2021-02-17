@@ -1,0 +1,9 @@
+enabled: true
+costom-join-message: ""
+costom-quit-message: ""
+
+join:
+  nachricht:
+  - "&6Willkommen &b%playername!"
+  - "&4Auf userem Server"
+  - ""

@@ -1,0 +1,7 @@
+messages:
+  prefix: "&b&lRPChat &8>"
+  noperms: "%prefix &4Du hast keine Rechte f\u00FCr diesen Befehl!"
+  reload: "%prefix &aDu hast das Plugin erfolgreich neu geladen!"
+  chatcolor_warten: "%prefix &aFarbcolors kannst du nur alle 5 Minuten nutzen!"
+  chatcolor: "%prefix &aWenn du Farben im &cChat&a benutzen willst brauchst du die &cPERMISSION&a chat.colorchat!"
+  

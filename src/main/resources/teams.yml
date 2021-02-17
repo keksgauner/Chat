@@ -1,0 +1,83 @@
+teams:
+  name:
+  - "Leader"
+  - "Administrator"
+  - "Serverleitung"
+  - "Moderator"
+  - "Supporter"
+  - "Guest"
+  prefix:
+  - "&e"
+  - "&c"
+  - "&4&l"
+  - "&2"
+  - "&d"
+  - "&7"
+  suffix:
+  - '&7'
+  - '&7'
+  - '&7'
+  - '&7'
+  - '&7'
+  - '&7'
+  colors:
+  - "YELLOW"
+  - "RED"
+  - "DARK_RED"
+  - "DARK_GREEN"
+  - "LIGHT_PURPLE"
+  - "GRAY"
+  permissions:
+  - "chat.leader"
+  - "chat.serverleitung"
+  - "chat.administrator"
+  - "chat.moderator"
+  - "chat.supporter"
+  - "das_letzte_ist_default"
+  
+fraktion:
+  name:
+  - "Verius"
+  - "Hells"
+  - "ADAC"
+  - "Sanitater"
+  - "News-Reporter"
+  - "Taxifahrer"
+  - "Polizist"
+  - "Zivilist"
+  prefix:
+  - "&5"
+  - "&e"
+  - "&e"
+  - "&6"
+  - "&a"
+  - "&e"
+  - "&9"
+  - "&7"
+  suffix:
+  - '&7'
+  - '&7'
+  - '&7'
+  - '&7'
+  - '&7'
+  - '&7'
+  - '&7'
+  - '&7'
+  colors:
+  - "DARK_PURPLE"
+  - "YELLOW"
+  - "YELLOW"
+  - "GOLD"
+  - "GREEN"
+  - "YELLOW"
+  - "BLUE"
+  - "GRAY"
+  permissions:
+  - "chat.verius"
+  - "chat.hells"
+  - "chat.adac"
+  - "chat.sanitater"
+  - "chat.newsreporter"
+  - "chat.taxifahrer"
+  - "chat.polizist"
+  - "das_letzte_ist_default"
